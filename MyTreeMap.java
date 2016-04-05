@@ -1,6 +1,5 @@
 //Adrian Hy
 //Project #2 - MyTreeMap
-//CS 241
 
 
 /**
