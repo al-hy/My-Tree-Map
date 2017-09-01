@@ -1,5 +1,3 @@
-//Adrian Hy
-//Project #2 - MyTreeMap
 
 
 /**
